@@ -1,0 +1,18 @@
+
+    {
+        "posts": [
+          {
+            "id": 1,
+            "name": "goldi",
+            "password": "Eschweiler",
+            "email": "sebastian@codingthesmartway.com"
+          }],
+          "comments": [
+            {
+              "id": 1,
+              "name": "goldi",
+              "password": "Eschweiler",
+              "email": "sebastian@codingthesmartway.com"
+            }]
+      }
+      

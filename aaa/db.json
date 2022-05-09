@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "gold",
+      "password": "goldi1323"
+    },
+    {
+      "id": 3,
+      "name": "goldi",
+      "password": "67"
+    },
+    {
+      "id": 4,
+      "name": "a",
+      "password": "q"
+    },
+    {
+      "id": 6,
+      "name": "goldi",
+      "password": "goldi"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
